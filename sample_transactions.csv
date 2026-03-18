@@ -1,0 +1,31 @@
+date,description,amount,transaction_type
+01-01-2024,Swiggy Food Order,450,Debit
+02-01-2024,Uber Ride,250,Debit
+03-01-2024,Amazon Purchase,1200,Debit
+04-01-2024,Salary Credit,30000,Credit
+05-01-2024,Netflix Subscription,499,Debit
+06-01-2024,Zomato Food Delivery,350,Debit
+07-01-2024,Ola Ride,180,Debit
+08-01-2024,Flipkart Order,2200,Debit
+09-01-2024,Electricity Bill Payment,1500,Debit
+10-01-2024,Mobile Recharge,299,Debit
+01-02-2024,Swiggy Food Order,500,Debit
+02-02-2024,Uber Ride,300,Debit
+03-02-2024,Amazon Purchase,800,Debit
+04-02-2024,Salary Credit,30000,Credit
+05-02-2024,Netflix Subscription,499,Debit
+06-02-2024,Zomato Food Delivery,400,Debit
+07-02-2024,Ola Ride,220,Debit
+08-02-2024,Flipkart Order,1500,Debit
+09-02-2024,Gas Bill Payment,900,Debit
+10-02-2024,Movie Ticket Booking,600,Debit
+01-03-2024,Swiggy Food Order,600,Debit
+02-03-2024,Uber Ride,350,Debit
+03-03-2024,Amazon Purchase,1800,Debit
+04-03-2024,Salary Credit,30000,Credit
+05-03-2024,Spotify Premium,199,Debit
+06-03-2024,Zomato Food Delivery,450,Debit
+07-03-2024,Ola Ride,200,Debit
+08-03-2024,Flipkart Order,2700,Debit
+09-03-2024,Internet Bill Payment,1200,Debit
+10-03-2024,Pharmacy Purchase,650,Debit
